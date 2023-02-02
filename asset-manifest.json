@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tcognition/static/css/main.96126264.css",
+    "main.js": "/tcognition/static/js/main.7e9a38a4.js",
+    "static/js/787.4c220f9e.chunk.js": "/tcognition/static/js/787.4c220f9e.chunk.js",
+    "static/media/logo.svg": "/tcognition/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tcognition/index.html",
+    "main.96126264.css.map": "/tcognition/static/css/main.96126264.css.map",
+    "main.7e9a38a4.js.map": "/tcognition/static/js/main.7e9a38a4.js.map",
+    "787.4c220f9e.chunk.js.map": "/tcognition/static/js/787.4c220f9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96126264.css",
+    "static/js/main.7e9a38a4.js"
+  ]
+}
